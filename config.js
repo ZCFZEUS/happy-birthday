@@ -27,13 +27,13 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
-  music: "./music/hbd.mpeg",      // Place your music in the music/ folder
+  name: "也也",
+  photo: "./img/yeye.png",       // Place your photo in the img/ folder
+  music: "./music/hbd.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.
-  colors: {
+   colors: {
     primary: "#f472b6",           // Main accent color (rose pink)
     accent: "#60a5fa",            // Secondary accent color (sky blue)
     dark: {
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "Hope your day is as special as you are! ;)",
     },
     {
       type: "fireworks",
@@ -117,3 +117,4 @@ const CONFIG = {
     },
   ],
 };
+// ... existing code ...
